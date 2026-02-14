@@ -1,4 +1,4 @@
-#🧸 Toy Store Sales & Inventory Analysis
+# 🧸 Toy Store Sales & Inventory Analysis
 
 ## 📌 Project Overview
 This project focuses on analyzing sales, product, store, and inventory data for a toy store chain to uncover actionable business insights. The goal is to help stakeholders understand performance trends, optimize inventory, and improve store-level decision-making using SQL and Power BI.
