@@ -40,7 +40,9 @@ This project consolidates the data and delivers a single source of truth through
 - Toys Ciudad de Mexico 2 was the top-performing store, while Toys La Paz 1 showed the lowest performance
 - **Inventory turnover (~18.5)** indicates healthy stock movement overall
 
+## Dashboard
 
+<img width="756" height="428" alt="image" src="https://raw.githubusercontent.com/rishavbtyagi/Toy-Store-Analytics-Project/refs/heads/main/Dashboard.png" />
 
 ## 💡 Business Recommendations
 
